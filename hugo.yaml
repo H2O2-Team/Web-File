@@ -49,7 +49,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Exagear bo64"
-    author: V,Niko,Ke
+    author: V Niko Ke
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
