@@ -1,7 +1,7 @@
 ---
 title: "在开始之前你需要阅读的" #标题
 date: 2023-12-10T23:37:28+08:00 #创建时间
-lastmod: {{ .Date }} #更新时间
+lastmod:  #更新时间
 author: ["Niko and V"] #作者
 categories: 
 tags: 
