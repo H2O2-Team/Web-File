@@ -26,16 +26,16 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
+                - name: 归档
                   url: archives
                   weight: 5
-                - name: Search
+                - name: 搜索
                   url: search/
                   weight: 10
                 - name: 公共代理
                   url: public-proxy/
                   weight: 10
-                - name: About
+                - name: 关于
                   url: about/
 
 
