@@ -1,0 +1,28 @@
+<head>
+    <!-- ... -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+    />
+    <!-- ... -->
+  </head>
+  <body>
+    <!-- ... -->
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+  
+      init({
+        dark: 'body.dark',
+        comment: true,
+        el: '#waline',
+        serverURL: 'https://waline.vofficial233.com',
+        emoji: [
+          '//unpkg.com/@waline/emojis@1.2.0/bilibili',
+          '//unpkg.com/@waline/emojis@1.2.0/tieba',
+          '//unpkg.com/@waline/emojis@1.2.0/tw-emoji',
+        ],
+      });
+    </script>
+  </body>
+  
