@@ -9,7 +9,7 @@ categories:
 tags: 
 - box64
 - Exagear
-description: 还不会安装Exagear/Wintalor吗？🤔 #描述
+description: "还不会安装Exagear/Wintalor吗？🤔" #描述
 weight:  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
 draft: false # 是否为草稿
@@ -29,7 +29,7 @@ cover:
 
 # 安装（以默认为鲁大师包名为例）
 
-我们以**Wintalor（静之言思）**为例来演示
+我们以**Wintalor静之言思大佬的修改版**为例来演示
 
 首先打开MT管理器，没有的可以在[这里下载](https://www.coolapk.com/apk/bin.mt.plus)
 
