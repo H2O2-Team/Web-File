@@ -19,13 +19,19 @@ cover:
     alt: ""
     relative: false
 ---
+感谢这些人为网站做出的贡献：
+Niko、[東雪蓮Offical](https://space.bilibili.com/696475762)、[V](https://space.bilibili.com/1722765856)
+
+以及所有为box64/Exagear无私付出的大家！
 
 我们在社交平台上的群组
-国内
-QQ频道：
+
+# 国内
+
+## QQ频道：
 https://pd.qq.com/s/dj8edw94i
 
-QQ
+## QQ
 563659964
 
 837889765
