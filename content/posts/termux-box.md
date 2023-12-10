@@ -25,7 +25,8 @@ cover:
     relative: false
 --- 
 
-
+我想这个教程还没写完就已经老了（
+<!--more-->
 
 
 

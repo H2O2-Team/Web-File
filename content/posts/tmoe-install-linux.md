@@ -25,6 +25,11 @@ cover:
     relative: false
 --- 
 
+并不是很建议用这种方法自己安装Linux手搓box
+<!--more-->
+
+
+
 # 准备
 
 +   安装Termux、VNC（或者AVNC）

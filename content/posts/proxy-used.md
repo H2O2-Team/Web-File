@@ -7,7 +7,7 @@ categories:
 - Proxy
 tags: 
 - Proxy
-description: "这个还需要教你吗？" #描述
+description: "这个还需要教你吗？🤔" #描述
 weight: 2  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: ""
 draft: false # 是否为草稿
@@ -23,6 +23,10 @@ cover:
     alt: ""
     relative: false
 --- 
+
+这个还需要教你吗？🤔
+<!--more-->
+
 
 # 目录
 

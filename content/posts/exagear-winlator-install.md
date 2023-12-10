@@ -26,6 +26,8 @@ cover:
     relative: false
 ---
 
+还不会安装Exagear/Wintalor吗？🤔
+<!--more-->
 
 # 安装（以默认为鲁大师包名为例）
 
