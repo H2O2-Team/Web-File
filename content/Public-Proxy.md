@@ -33,7 +33,7 @@ Mihomo、V2ay、SurfBoard通用订阅： （每月1000G流量）
 [订阅链接](https://pqjc.site/api/v1/client/subscribe?token=a5d97ed14186599164a7b787c02045ef)
 
 ## 自建
-### Clash系订阅链接：
+### Mihomo系订阅链接：
 https://v1.mk/Yg1dXPn
 ### V2ray系订阅链接：
 https://v1.mk/csSlDeC
