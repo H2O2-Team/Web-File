@@ -20,3 +20,16 @@ cover:
     relative: false
 ---
 
+我们在社交平台上的群组
+国内
+QQ频道：
+https://pd.qq.com/s/dj8edw94i
+
+QQ
+563659964
+
+837889765
+
+682830898
+
+我们更建议您加入QQ频道
