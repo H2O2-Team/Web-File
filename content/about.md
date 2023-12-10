@@ -1,5 +1,5 @@
 ---
-title: "一点点关于这个网站的自述"
+title: "关于我们"
 layout: about
 date: 2023-12-10T00:44:28+08:00
 hidemeta: false
@@ -20,5 +20,3 @@ cover:
     relative: false
 ---
 
-
-这只是某人随便写写的一个网站，存了许多奇奇怪怪的东西和随记（？）
