@@ -1,5 +1,5 @@
-baseURL: "https://Sunny.vofficial233.com"
-title: Under the Sunset Tree
+baseURL: "https://h2o-2.org"
+title: H2O2 Team
 paginate: 5
 theme: "PaperMod"
 
@@ -48,8 +48,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "杂记"
-    author: V
+    description: "Exagear bo64"
+    author: V,Niko,Ke
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -80,24 +80,22 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Under the Sunset Tree"
+        Title: "H2O2 Team"
         Content: >
           👋欢迎，朋友
 
     socialIcons:
-        - name: github
-          url: "https://github.com/V-Official-233"
-        - name: matrix
-          url: "https://matrix.to/#/@vofficial:matrix.org"  
+        - name: qq
+          url: "https://pd.qq.com/s/dj8edw94i"
         - name: bilibili
-          url: "https://space.bilibili.com/1722765856"
-        - name: KoFi
-          url: "https://afdian.net/a/vofficial"
+          url: "https://space.bilibili.com/696475762"
+        - name: discord
+          url: "https://discord.gg/SzTgfPEY"
         - name: Rss
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/V-Official-233/Sunny-Note"
+        URL: "https://github.com/Ryan-Hu-233/H2O2-Team-Web"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
