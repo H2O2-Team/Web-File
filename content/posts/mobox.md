@@ -109,7 +109,7 @@ zh_CN
 ## 安装驱动
 打开左下角的**起点**，打开`Install`，安装`dxvk`和`turnip zink`
 
-![](https://img.h2o-2.org/mobox/mobox-5.webp)
+![](https://img.h2o-2.org/mobox/mobox-6.webp)
 
 
 
