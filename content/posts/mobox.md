@@ -107,6 +107,9 @@ zh_CN
 ![](https://img.h2o-2.org/mobox/mobox-5.webp)
 
 ## 安装驱动
+打开左下角的**起点**，打开`Install`，安装`dxvk`和`turnip zink`
 
-其他根据个人需要更改就好
+![](https://img.h2o-2.org/mobox/mobox-5.webp)
+
+
 
