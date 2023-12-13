@@ -34,7 +34,7 @@ languages:
                   weight: 10
                 - name: 公共代理
                   url: public-proxy/
-                - name: 运行状态
+                - name: 状态
                   url: https://up.h2o-2.org/status/services                    
                   weight: 10
                 - name: 关于
