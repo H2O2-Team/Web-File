@@ -91,6 +91,8 @@ params:
           url: "https://pd.qq.com/s/dj8edw94i"
         - name: bilibili
           url: "https://space.bilibili.com/696475762"
+        - name: bilibili
+          url: "https://space.bilibili.com/1722765856"         
         - name: discord
           url: "https://discord.gg/SzTgfPEY"
         - name: Rss
