@@ -37,8 +37,12 @@ cover:
 
 打开`Android/obb`
 
-![](https://picshack.net/ib/lDupAMjr8J.jpg)然后创建一个与安装包包名相同的文件夹，把`.obb`的文件放进去
+![](https://img.h2o-2.org/exagear-winlator-install/exagear-winlator-install-1.webp)
+然后创建一个与安装包包名相同的文件夹，把`.obb`的文件放进去
 
-# ![](https://picshack.net/ib/j8Lm5l5MD2.jpg)![](https://picshack.net/ib/ONQlGE00Rx.jpg)安兔兔包名的安装包使用需要注意的
+![](https://img.h2o-2.org/exagear-winlator-install/exagear-winlator-install-2.webp)
+
+![](https://img.h2o-2.org/exagear-winlator-install/exagear-winlator-install-3.webp)
+# 安兔兔包名的安装包使用需要注意的
 
 因为obb默认都是使用鲁大师的包名（com.ludashi.benchhmark）来命名的，所以如果要用安兔兔包名的安装包，请把obb文件名称里的`com.ludashi.benchhmark`换为`com.antutu.ABenchMark`

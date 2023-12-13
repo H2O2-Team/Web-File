@@ -85,6 +85,8 @@ params:
           👋欢迎，朋友
 
     socialIcons:
+        - name: Github
+          url: "https://github.com/H2O2-Team"
         - name: qq
           url: "https://pd.qq.com/s/dj8edw94i"
         - name: bilibili

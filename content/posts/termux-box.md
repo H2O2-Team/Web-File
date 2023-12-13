@@ -53,7 +53,7 @@ termux-setup-storage
 
 授予Termux储存权限
 
-![](https://picshack.net/ib/oZGVRkZ2eM.jpg)
+![](https://img.h2o-2.org/termux-box/termux-box-1.webp)
 
 然后更新一下Termux的包
 
@@ -83,7 +83,7 @@ termux-box
 
 然后打开Termux-box，在菜单内输入6进入容器的终端模式
 
-![](https://picshack.net/ib/eooaC0Ld52.jpg)然后输入以下命令
+![](https://img.h2o-2.org/termux-box/termux-box-3.webp)然后输入以下命令
 
 > 注意：每行都是一条单独的命令
 
@@ -105,7 +105,7 @@ exit
 
 打开Termux-box，在菜单内输入5进入容器的设置修改页面
 
-![](https://picshack.net/ib/pw7wAFJBvB.jpg)
+![](https://img.h2o-2.org/termux-box/termux-box-4.webp)
 
 先输入10关闭 services
 
@@ -123,10 +123,10 @@ exit
 zh_CN
 ```
 
-![](https://picshack.net/ib/MU4XcM4O5k.jpg)然后输入`else`返回主菜单
+![](https://img.h2o-2.org/termux-box/termux-box-5.webp)然后输入`else`返回主菜单
 
 输入1启动Termux-box
 
-![](https://picshack.net/ib/QkrqXzNwfA.jpg)然后重启容器后，中文显示就恢复正常
+![](https://img.h2o-2.org/termux-box/termux-box-6.webp)然后重启容器后，中文显示就恢复正常
 
 太困了下次再接着写（

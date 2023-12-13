@@ -62,7 +62,7 @@ PC Games的游戏分区内，有一个分区专门塞了一些Hugo对Exagear/box
 
 如果下载速度慢请看下载站下方的描述
 
-> 我们的下载站爆了，暂时重定向到V的AList
+> 服务器无了，暂时重定向到~~富婆~~V的AList
 
 # 为什么我按照网站/BiliBili 的教程走，里面有的链接打开提示 **ERR\_CONNECTION\_CLOSED（长时间加载后无法打开）**
 
