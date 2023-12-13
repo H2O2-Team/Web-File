@@ -111,7 +111,7 @@ exit
 
 ## 汉化
 
-下载[中文汉化包](https://alist.vofficial233.com/d/Exagear%20%26%20box64/Box86%20Box64/termux-box%20box64droid%20%E9%83%A8%E5%88%86%E8%A1%A5%E4%B8%81/termux-box%E6%B1%89%E5%8C%96%20(1).zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
+下载[中文汉化包](https://alist.vofficial233.com/Exagear%20&%20box64/Box86%20Box64/termux-box%E6%B1%89%E5%8C%96.zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
 
 打开Termux-box，在菜单内输入5进入容器的设置修改页面
 

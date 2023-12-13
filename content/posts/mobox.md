@@ -94,11 +94,19 @@ mobox设置界面的翻译如下图
 
 6.更改 WSI_PRESENT_MOOE
 
-更改中文选择3，输入
+
+
+## 更改中文
+下载[中文汉化包](https://alist.vofficial233.com/Exagear%20&%20box64/Box86%20Box64/mobox%E6%B1%89%E5%8C%96%E5%8C%85.zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
+
+然后再到mobox的设置中更改语言，输入
 ```
 zh_CN
 ```
 
+![](https://img.h2o-2.org/mobox/mobox-5.webp)
+
+## 安装驱动
+
 其他根据个人需要更改就好
 
-未完......
