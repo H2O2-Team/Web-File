@@ -30,7 +30,7 @@ cover:
 [项目地址](https://github.com/olegos2/mobox)
 
 # 准备
--  安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://fastly.jsdelivr.net/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://fastly.jsdelivr.net/gh/olegos2/mobox/components/inputbridge.apk)
+-  安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://gcore.jsdelivr.net/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://gcore.jsdelivr.net/gh/olegos2/mobox/components/inputbridge.apk)
 - 确保你当前可以顺畅连接到Github
 > **因为教程中使用的链接被GFW阻断，中国大陆地区（不含中国香港、中国澳门、中国台湾）请使用VPN或其他绕过GFW封锁**
 
