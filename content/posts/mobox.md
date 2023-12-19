@@ -30,7 +30,7 @@ cover:
 [项目地址](https://github.com/olegos2/mobox)
 
 # 准备
--  安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://gcore.jsdelivr.net/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://gcore.jsdelivr.net/gh/olegos2/mobox/components/inputbridge.apk)
+-  安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://gcore.jsdelivr.net/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://alist.vofficial233.com/Exagear%20&%20box64/IB%E9%94%AE%E7%9B%98/InputBridge_v0.1.9.9.apk)
 - 确保你当前可以顺畅连接到Github
 > **因为教程中使用的链接被GFW阻断，中国大陆地区（不含中国香港、中国澳门、中国台湾）请使用VPN或其他绕过GFW封锁**
 
@@ -109,7 +109,10 @@ zh_CN
 ## 安装驱动
 打开左下角的**起点**，打开`Install`，安装`dxvk`和`turnip zink`
 
+> 目前还没有测试过VirGL（因为手里都是骁龙懒得测了 :p）
+
 ![](https://img.h2o-2.org/mobox/mobox-6.webp)
 
 
-
+以上只是基础设置，你可以自己摸索着玩玩别的设置
+未完......

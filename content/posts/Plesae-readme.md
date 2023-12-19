@@ -64,7 +64,7 @@ PC Games的游戏分区内，有一个分区专门塞了一些Hugo对Exagear/box
 
 > 服务器无了，暂时重定向到~~富婆~~V的AList
 
-# 为什么我按照网站/BiliBili 的教程走，里面有的链接打开提示 **ERR\_CONNECTION\_CLOSED（长时间加载后无法打开）**
+# 为什么我按照网站/BiliBili 的教程走，里面有的链接打开提示 **ERR_CONNECTION_CLOSED（长时间加载后无法打开）**
 
 **因为部分教程中使用的域名被GFW阻断，中国大陆地区（不含中国香港、中国澳门、中国台湾）请使用VPN或其他绕过GFW封锁**
 
@@ -73,3 +73,7 @@ PC Games的游戏分区内，有一个分区专门塞了一些Hugo对Exagear/box
 # 我们有讨论用的群聊吗？
 
 请看[关于页](https://h2o-2.org/about) 或是 首页的联系方式
+
+# 关于网站我有好的建议，我该怎么联系你们？
+
+在[Github项目](https://github.com/H2O2-Team/Web)提Issues、哔哩哔哩私聊留言、QQ频道留言
