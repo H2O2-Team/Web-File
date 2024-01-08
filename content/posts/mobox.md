@@ -51,7 +51,7 @@ termux-setup-storage
 然后更新一下Termux的包
 
 ```auto
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 ```
 
 更新后，输入官方的安装命令安装
