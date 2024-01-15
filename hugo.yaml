@@ -100,6 +100,8 @@ params:
           url: "https://discord.gg/SzTgfPEY"
         - name: Rss
           url: "index.xml"
+        - name: Rss
+          url: "https://rsshub.vofficial233.com/bilibili/user/collection/1722765856/2038245"
 
     editPost:
         URL: "https://github.com/Ryan-Hu-233/H2O2-Team-Web"
