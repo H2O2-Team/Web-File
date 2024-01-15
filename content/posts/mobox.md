@@ -115,6 +115,10 @@ zh_CN
 
 ![](https://img.h2o-2.org/mobox/mobox-6.webp)
 
+## 解决启动黑屏
+在主菜单依次选择3 1修复wine
 
-以上只是基础设置，你可以自己摸索着玩玩别的设置
-未完......
+![](https://img.h2o-2.org/mobox/mobox-2.webp)
+
+
+
