@@ -38,10 +38,10 @@ cover:
 我们这里以glibc的mobox和box64droid native为例子
 > 如果你还没有安装mobox，请看这篇教程：
 > https://h2o-2.org/posts/mobox/
-首先在下载站下载[打包好的压缩包](https://alist.vofficial233.com/Exagear%20&%20box64/Panfrost_G610-G710_armhf-arm64.tar.gz)
+首先在下载站下载[打包好的压缩包](https://alist.vofficial233.com/Exagear%20&%20box64/Panfrost_G610-G710_armhf-arm64_20240117_002003966.tar.gz)
 然后在Termux中输入
 ```
-tar -xf Panfrost_G610-G710_armhf-arm64.tar.gz -C $PREFIX
+tar -xf Panfrost_G610-G710_armhf-arm64_20240117_002003966.tar.gz -C $PREFIX
 ```
 回到mobox，安装内置于mobox的WineD3D
 即可
