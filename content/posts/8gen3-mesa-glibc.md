@@ -40,3 +40,6 @@ https://www.bilibili.com/opus/887110432543735830
 tar -xvf /storage/emulated/0/Download/a750native.tar.gz -C $PREFIX/
 ```
 即可
+# 添加32位支持
+首先在下载站下载[打包好的压缩包](https://alist.vofficial233.com/Exagear%20&%20box64/8Gen3%E6%B7%BB%E5%8A%A032%E4%BD%8D%E6%94%AF%E6%8C%81.zip)
+然后将里面的文件夹`usr`复制到Z盘即可
