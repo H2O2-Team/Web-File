@@ -25,3 +25,18 @@ cover:
     alt: ""
     relative: false
 --- 
+
+mesa终于更！新！辣！
+<!--more-->
+测试视频：
+https://www.bilibili.com/video/BV1Xw411J7QG
+原（本文）作者动态说明：
+https://www.bilibili.com/opus/887110432543735830
+# 如何使用
+我们这里以glibc的mobox和box64droid native为例子
+首先在下载站下载[打包好的压缩包](https://alist.vofficial233.com/Exagear%20&%20box64/a750native.tar.gz)
+然后在Termux中输入
+```
+tar -xvf /storage/emulated/0/Download/a750native.tar.gz -C $PREFIX/
+```
+即可
