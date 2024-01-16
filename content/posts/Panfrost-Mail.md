@@ -1,6 +1,6 @@
 ---
 title: "Panfrost Mali G610/G710使用指南" #标题
-date: 2024-01-17T01:37:28+08:00 #创建时间
+date: 2024-01-17T14:37:28+08:00 #创建时间
 lastmod:  #更新时间
 author: ["H2O2 Team"] #作者
 categories: 
