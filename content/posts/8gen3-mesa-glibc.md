@@ -36,6 +36,7 @@ https://www.bilibili.com/opus/887110432543735830
 我们这里以glibc的mobox和box64droid native为例子
 > 如果你还没有安装mobox，请看这篇教程：
 > https://h2o-2.org/posts/mobox/
+
 首先在下载站下载[打包好的压缩包](https://alist.vofficial233.com/Exagear%20&%20box64/a750native.tar.gz)
 然后在Termux中输入
 ```
