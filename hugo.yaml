@@ -33,10 +33,7 @@ languages:
                   url: search/
                   weight: 10
                 - name: 公共代理
-                  url: public-proxy/
-                - name: 状态
-                  url: https://up.h2o-2.org/status/services                    
-                  weight: 10
+                  url: public-proxy/               
                 - name: 关于
                   url: about/
 
@@ -51,8 +48,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Exagear bo64"
-    author: V Niko 東雪蓮Offical
+    description: "Exagear box64"
+    author: H2O2 Team
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -100,11 +97,9 @@ params:
           url: "https://discord.gg/SzTgfPEY"
         - name: Rss
           url: "index.xml"
-        - name: Rss
-          url: "https://rsshub.vofficial233.com/bilibili/user/collection/1722765856/2038245"
 
     editPost:
-        URL: "https://github.com/Ryan-Hu-233/H2O2-Team-Web"
+        URL: "https://github.com/H2O2-Team/Web"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

@@ -2,7 +2,7 @@
 title: "Termux-Box的安装和使用" #标题
 date: 2023-12-10T23:37:28+08:00 #创建时间
 lastmod:  #更新时间
-author: ["V"] #作者
+author: ["H2O2 Team"] #作者
 categories: 
 - box64
 tags: 

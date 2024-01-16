@@ -2,7 +2,7 @@
 title: "一些旧的Exagear教程" #标题
 date: 2023-12-10T23:37:28+08:00 #创建时间
 lastmod:  #更新时间
-author: ["Niko and V"] #作者
+author: ["H2O2 Team"] #作者
 categories: 
 - Exagear
 tags: 
