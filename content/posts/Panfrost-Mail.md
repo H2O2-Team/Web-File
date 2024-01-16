@@ -41,4 +41,5 @@ cover:
 ```
 tar -xf Panfrost_G610-G710_armhf-arm64.tar.gz -C $PREFIX
 ```
+回到mobox，安装内置于mobox的WineD3D
 即可
