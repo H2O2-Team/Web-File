@@ -47,6 +47,7 @@ outputs:
         - JSON
 
 params:
+    fancybox: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Exagear box64"
     author: H2O2 Team
