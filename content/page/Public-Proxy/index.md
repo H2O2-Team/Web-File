@@ -5,7 +5,7 @@ date: 2023-12-10
 hidemeta: false
 description: ""
 weight:
-slug: ""
+slug: "Public-Proxy"
 draft: false # 是否为草稿
 comments: true
 reward: false
