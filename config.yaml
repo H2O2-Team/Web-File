@@ -213,14 +213,14 @@ menu:
           params:
               icon: qq
 
-        - identifier: bilibili
+        - identifier: bilibili-ke
           name: BiliBili-冬雪莲
           url: https://space.bilibili.com/696475762
           weight: 3
           params:
               icon: bilibili
 
-        - identifier: bilibili
+        - identifier: bilibili-v
           name: BiliBili-V
           url: https://space.bilibili.com/1722765856
           weight: 3
