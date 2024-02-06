@@ -205,6 +205,18 @@ menu:
           newTab: false
           icon: user
 
+
+    - identifier: github-proxy
+      name: Github Proxy
+      url: https://ghproxy.h2o-2.org/  
+      weight: -50
+      params:
+          newTab: false
+          icon: github
+
+
+        
+
     social:
         - identifier: qq
           name: QQ频道
