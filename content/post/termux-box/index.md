@@ -10,7 +10,7 @@ tags:
 - termux-box
 description: "我想这个教程还没写完就已经老了（" #描述
 weight:  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
-slug: ""
+slug: "termux-box"
 draft: false # 是否为草稿
 comments: true #是否展示评论
 showToc: true # 显示目录
@@ -26,6 +26,8 @@ cover:
 --- 
 
 我想这个教程还没写完就已经老了（
+
+建议去看mobox那个
 <!--more-->
 
 
