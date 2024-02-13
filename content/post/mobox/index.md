@@ -1,7 +1,7 @@
 ---
 title: "mobox的安装和使用" #标题
-date: 2023-12-14T03:37:28+08:00 #创建时间
-lastmod:  #更新时间
+date: 2023-12-14 #创建时间
+lastmod: 2024-02-01  #更新时间
 author: ["H2O2 Team"] #作者
 categories: 
 - box64
@@ -48,6 +48,9 @@ termux-setup-storage
 
 ![](https://file.h2o-2.org/termux-box/termux-box-1.webp)
 
+
+> 有所谓的“报错”是正常滴，不用管
+
 然后更新一下Termux的包
 
 ```auto
@@ -58,6 +61,9 @@ pkg update && pkg upgrade -y
 ```auto
 curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
 ```
+
+> 8Gen3在安装时请选择wow64
+
 当看到`To start - type "mobox"`时即安装成功
 
 ![](https://file.h2o-2.org/mobox/mobox-1.webp)
