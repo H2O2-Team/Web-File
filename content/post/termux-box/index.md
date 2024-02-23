@@ -79,30 +79,6 @@ termux-box
 
 # 配置
 
-## 更新box64兼容层
-
-首先下载[压缩包](https://alist.vofficial233.com/d/Exagear%20%26%20box64/Box86%20Box64/termux-box%20box64droid%20%E9%83%A8%E5%88%86%E8%A1%A5%E4%B8%81/%E6%96%B0box64%E5%85%BC%E5%AE%B9%E5%B1%82.zip)，然后将其解压到`/storage/emulatede/0/Download`下
-
-然后打开Termux-box，在菜单内输入6进入容器的终端模式
-
-![](https://file.h2o-2.org/termux-box/termux-box-3.webp)然后输入以下命令
-
-> 注意：每行都是一条单独的命令
-
-```auto
-cd /sdcard/Dowmload
-mv box86 /usr/local/bin/
-mv box64 /usr/local/bin/
-```
-
-完成后输入
-
-```auto
-exit
-```
-
-退出即可
-
 ## 修改部分设置
 
 打开Termux-box，在菜单内输入5进入容器的设置修改页面
@@ -113,7 +89,7 @@ exit
 
 ## 汉化
 
-下载[中文汉化包](https://alist.vofficial233.com/Exagear%20&%20box64/Box86%20Box64/termux-box%E6%B1%89%E5%8C%96.zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
+下载[中文汉化包](https://alist.vofficial233.com/%E6%9D%82%E7%89%A9/Box64/termux-box%E6%B1%89%E5%8C%96.zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
 
 打开Termux-box，在菜单内输入5进入容器的设置修改页面
 

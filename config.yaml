@@ -176,7 +176,7 @@ menu:
     - identifier: home
       name: 首页
       url: /
-      weight: -100 
+      weight: -70 
       params:
           newTab: false
           icon: home 
@@ -184,7 +184,7 @@ menu:
     - identifier: archives
       name: 归档
       url: /archives/
-      weight: -90 
+      weight: -60 
       params:
           newTab: false
           icon: archives
@@ -192,7 +192,7 @@ menu:
     - identifier: links
       name: 友链
       url: /friends/
-      weight: -80 
+      weight: -50 
       params:
           newTab: false
           icon: link
@@ -200,7 +200,7 @@ menu:
     - identifier: about
       name: 关于
       url: /about/
-      weight: -60
+      weight: -20
       params:
           newTab: false
           icon: user
@@ -209,7 +209,7 @@ menu:
     - identifier: github-proxy
       name: Github Proxy
       url: https://mirror.h2o-2.org/ 
-      weight: -50
+      weight: -40
       params:
           newTab: false
           icon: github
@@ -217,7 +217,7 @@ menu:
     - identifier: proxy
       name: Proxy
       url: /public-proxy/
-      weight: -40
+      weight: -30
       params:
           newTab: false
           icon: proxy       
