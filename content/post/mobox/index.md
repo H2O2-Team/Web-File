@@ -58,8 +58,16 @@ pkg update && pkg upgrade -y
 ```
 
 更新后，输入官方的安装命令安装
+
 ```auto
 curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
+```
+> 前提是你能正常访问Github
+
+如果访问Github有困难，请使用下面这段命令
+
+```
+curl -s -o ~/x https://mirror.h2o-2.org/https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
 ```
 
 > 8Gen3在安装时请选择wow64（选择2）
