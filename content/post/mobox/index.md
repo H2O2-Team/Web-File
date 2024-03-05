@@ -46,7 +46,7 @@ termux-setup-storage
 
 授予Termux储存权限
 
-![](https://file.h2o-2.org/termux-box/termux-box-1.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-1.webp)
 
 
 > 有所谓的“报错”是正常滴，不用管
@@ -74,7 +74,7 @@ curl -s -o ~/x https://mirror.h2o-2.org/https://raw.githubusercontent.com/olegos
 
 当看到`To start - type "mobox"`时即安装成功
 
-![](https://file.h2o-2.org/mobox/mobox-1.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-1.webp)
 # 开始使用
 输入
 ```
@@ -83,16 +83,16 @@ mobox
 来启动mobox
 
 mobox启动界面的翻译如下图
-![](https://file.h2o-2.org/mobox/mobox-2.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
 
 mobox设置界面的翻译如下图
-![](https://file.h2o-2.org/mobox/mobox-3.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-3.webp)
 
 下面我们开始设置，如果手机有Root，先进入设置选择6的Root设置，选择2
 
 `oom Adjuster (PREVENT TERMUX KILL)`防止termux被杀死
 
-![](https://file.h2o-2.org/mobox/mobox-4.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-4.webp)
 
 
 然后退出，选择4（系统设置）
@@ -122,19 +122,19 @@ mobox设置界面的翻译如下图
 zh_CN
 ```
 
-![](https://file.h2o-2.org/mobox/mobox-5.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-5.webp)
 
 ## 安装驱动
 打开左下角的**起点**，打开`Install`，安装`dxvk`和`turnip zink`
 
 > 目前还没有测试过VirGL（因为手里都是骁龙懒得测了 :p）
 
-![](https://file.h2o-2.org/mobox/mobox-6.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-6.webp)
 
 ## 解决启动黑屏
 在主菜单依次选择3 1修复wine
 
-![](https://file.h2o-2.org/mobox/mobox-2.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
 
 
 
