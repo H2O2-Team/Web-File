@@ -37,12 +37,12 @@ cover:
 
 打开`Android/obb`
 
-![](https://file.h2o-2.org/exagear-winlator-install/exagear-winlator-install-1.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/exagear-winlator-install-1.webp)
 然后创建一个与安装包包名相同的文件夹，把`.obb`的文件放进去
 
-![](https://file.h2o-2.org/exagear-winlator-install/exagear-winlator-install-2.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/exagear-winlator-install-2.webp)
 
-![](https://file.h2o-2.org/exagear-winlator-install/exagear-winlator-install-3.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/exagear-winlator-install-3.webp)
 # 安兔兔包名的安装包使用需要注意的
 
 因为obb默认都是使用鲁大师的包名（com.ludashi.benchhmark）来命名的，所以如果要用安兔兔包名的安装包，请把obb文件名称里的`com.ludashi.benchhmark`换为`com.antutu.ABenchMark`
