@@ -55,7 +55,7 @@ termux-setup-storage
 
 授予Termux储存权限
 
-![](https://file.h2o-2.org/termux-box/termux-box-1.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-1.webp)
 
 然后更新一下Termux的包
 
@@ -83,7 +83,7 @@ termux-box
 
 打开Termux-box，在菜单内输入5进入容器的设置修改页面
 
-![](https://file.h2o-2.org/termux-box/termux-box-4.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-4.webp)
 
 先输入10关闭 services
 
@@ -101,10 +101,10 @@ termux-box
 zh_CN
 ```
 
-![](https://file.h2o-2.org/termux-box/termux-box-5.webp)然后输入`else`返回主菜单
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-5.webp)然后输入`else`返回主菜单
 
 输入1启动Termux-box
 
-![](https://file.h2o-2.org/termux-box/termux-box-6.webp)然后重启容器后，中文显示就恢复正常
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-6.webp)然后重启容器后，中文显示就恢复正常
 
 太困了下次再接着写（
