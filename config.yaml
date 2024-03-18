@@ -8,7 +8,7 @@ copyright: H2O2 Team
 languages:
     zh-cn:
         languageName: 中文
-        title: Summer
+        title: H2O2 Team
         weight: 2
         params:
             description: 演示说明
