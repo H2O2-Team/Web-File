@@ -1,5 +1,5 @@
 ---
-title: "如何安装Exagear/Wintalor" #标题
+title: "如何安装Wintalor" #标题
 date: 2023-12-10T23:55:28+08:00 #创建时间
 lastmod:  #更新时间
 author: ["H2O2 Team"] #作者
@@ -9,9 +9,9 @@ categories:
 tags: 
 - box64
 - Exagear
-description: "还不会安装Exagear/Wintalor吗？🤔" #描述
+description: "还不会安装Wintalor吗？🤔" #描述
 weight:  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
-slug: "exagear-winlator-install"
+slug: "winlator-install"
 draft: false # 是否为草稿
 comments: true #是否展示评论
 showToc: true # 显示目录
@@ -26,7 +26,7 @@ cover:
     relative: false
 ---
 
-还不会安装Exagear/Wintalor吗？🤔
+还不会安装Wintalor吗？🤔
 <!--more-->
 
 # 安装（以默认为鲁大师包名为例）
