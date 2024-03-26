@@ -5,10 +5,8 @@ lastmod:  #更新时间
 author: ["H2O2 Team"] #作者
 categories: 
 - box64
-- Exagear
 tags: 
 - box64
-- Exagear
 description: "还不会安装Wintalor吗？🤔" #描述
 weight:  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: "winlator-install"
