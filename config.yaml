@@ -181,14 +181,6 @@ menu:
           newTab: false
           icon: home 
 
-    - identifier: archives
-      name: 归档
-      url: /archives/
-      weight: -60 
-      params:
-          newTab: false
-          icon: archives
-
     - identifier: links
       name: 友链
       url: /friends/
@@ -236,28 +228,28 @@ menu:
         - identifier: bilibili-dong
           name: BiliBili-冬雪莲
           url: https://space.bilibili.com/696475762
-          weight: 3
+          weight: 4
           params:
               icon: bilibili
 
         - identifier: bilibili-v
           name: BiliBili-V
           url: https://space.bilibili.com/1722765856
-          weight: 4
+          weight: 5
           params:
               icon: bilibili  
 
         - identifier: discord
           name: Hugo's Discord
           url: https://discord.gg/SzTgfPEY
-          weight: 2
+          weight: 3
           params:
               icon: discord             
                                               
         - identifier: rss
           name: RSS
           url: /index.xml
-          weight: 5
+          weight: 6
           params:
               icon: rss    
             
