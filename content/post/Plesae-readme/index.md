@@ -56,7 +56,7 @@ mobox很小的，只需要＜3G即可 但我们仍然建议您至少留出10G可
 
 [下载站](https://ds.h2o-2.org)
 
-PC Games的游戏分区内，子文件夹[转为Box64优化](https://alist.vofficial233.com/PC Games/专为Box64优化)塞了一些Hugo他们对box64优化过的游戏压缩包（但是都没有中文！）
+PC Games的游戏分区内，子文件夹专为Box64优化塞了一些Hugo他们对box64优化过的游戏压缩包（但是都没有中文！）
 
 如果下载速度慢请看下载站下方的描述
 
