@@ -45,14 +45,13 @@ image: /daily_pic.webp
 ## QQ频道：
 https://pd.qq.com/s/dj8edw94i
 
-## QQ
+## QQ群聊
 563659964
 
 837889765
 
 682830898
 
-我们更建议您加入QQ频道
 
 
 ## Discord
