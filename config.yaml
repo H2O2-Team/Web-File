@@ -11,7 +11,7 @@ languages:
         title: H2O2 Team
         weight: 2
         params:
-            description: 演示说明
+            description: 
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -227,13 +227,13 @@ menu:
 
     social:
         - identifier: qq
-          name: QQ频道
-          url: https://pd.qq.com/s/dj8edw94i
+          name: QQ群
+          url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HldTlWG_VTRK8mJLBWO_JA8rDUOTPfiQ&authKey=xitZHQ2UXDR8935hVmNhA8fHP50wPXiIkmRqDuEfKWdCwN3NCPdspPjpbXINOzQl&noverify=0&group_code=563659964
           weight: 2
           params:
               icon: qq
 
-        - identifier: bilibili-ke
+        - identifier: bilibili-dong
           name: BiliBili-冬雪莲
           url: https://space.bilibili.com/696475762
           weight: 3
@@ -243,7 +243,7 @@ menu:
         - identifier: bilibili-v
           name: BiliBili-V
           url: https://space.bilibili.com/1722765856
-          weight: 3
+          weight: 4
           params:
               icon: bilibili  
 
@@ -253,14 +253,7 @@ menu:
           weight: 2
           params:
               icon: discord             
-
-        - identifier: github
-          name: Github
-          url: https://github.com/H2O2-Team
-          weight: 2
-          params:
-              icon: brand-github                          
-                         
+                                              
         - identifier: rss
           name: RSS
           url: /index.xml
