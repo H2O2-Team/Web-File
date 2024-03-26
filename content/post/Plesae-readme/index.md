@@ -5,7 +5,6 @@ lastmod:  #更新时间
 author: ["H2O2 Team"] #作者
 categories: 
 - box64
-- Exagear
 tags: 
 - box64
 description: "在我们开始之前请先阅读我" #描述
