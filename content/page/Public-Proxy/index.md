@@ -20,13 +20,8 @@ cover:
     relative: false
 ---
 
-# 用前须知：
-请勿在国内社交、视频APP传播、炫耀，否则后果自负
-
-## Telegram代理
-请在Telegram APP内打开链接
-- https://t.me/proxy?server=8.218.189.74&port=443&secret=eeeabb2a457c69f0f96606923dc115734e7777772e6d6963726f736f66742e636f6d
-- https://t.me/proxy?server=193.218.201.111&port=2023&secret=ee271116ba4912b386579a80215f619faa62353230653163316138306135373764363938336365303533366261653463642e636f6d
+# 免责声明：
+提供的代理仅限于折腾使用，请勿使用于非法用途
 
 ## 公共
 update...
