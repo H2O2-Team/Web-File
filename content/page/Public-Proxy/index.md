@@ -29,19 +29,9 @@ cover:
 - https://t.me/proxy?server=193.218.201.111&port=2023&secret=ee271116ba4912b386579a80215f619faa62353230653163316138306135373764363938336365303533366261653463642e636f6d
 
 ## 公共
-Mihomo、V2ay、SurfBoard通用订阅： （每月1000G流量）
+update...
 
-[订阅链接](https://pqjc.site/api/v1/client/subscribe?token=a5d97ed14186599164a7b787c02045ef)
-
-## 自建
-### Mihomo系订阅链接：
-https://v1.mk/Yg1dXPn
-### V2ray系订阅链接：
-https://v1.mk/csSlDeC
-### Surfbroad订阅链接：
-https://v1.mk/zjvgaVT
-
-## 代理APP
+## 破解代理APP
 ### 快连VPN破解版：
 [下载](https://alist.vofficial233.com/Android%E8%BD%AF%E4%BB%B6/%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
 
