@@ -24,9 +24,16 @@ cover:
 提供的代理仅限于折腾使用，请勿使用于非法用途
 
 ## 公共
-update...
+
+不保证速度以及稳定性
+
+```
+vless://4526f868-1a28-4e73-a075-07792561b8d2@www.visa.co.jp:443/?type=ws&encryption=none&flow=&host=freeproxy.vofficial.top&path=%2Fgli-vless%3Fed%3D2048&security=tls&sni=freeproxy.vofficial.top#%F0%9F%87%BA%F0%9F%87%B8Free%20Proxy%20Vless
+
+vmess://eyJhZGQiOiJ3d3cudmlzYS5jby5qcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJlZXByb3h5LnZvZmZpY2lhbC50b3AiLCJpZCI6IjQ1MjZmODY4LTFhMjgtNGU3My1hMDc1LTA3NzkyNTYxYjhkMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nbGktdm1lc3M/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hGcmVlIFByb3h5IFZtZXNzIiwic2N5Ijoibm9uZSIsInNuaSI6ImZyZWVwcm94eS52b2ZmaWNpYWwudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+```
 
 ## 破解代理APP
 ### 快连VPN破解版：
-[下载](https://alist.vofficial233.com/Android%E8%BD%AF%E4%BB%B6/%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
+[下载](https://alist.vofficial233.com/Android/APP/代理软件)
 
