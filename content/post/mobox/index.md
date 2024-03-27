@@ -271,3 +271,6 @@ termux-x11配置完成后，回到Termux，选择1启动wine
 > 要注意，如果有些游戏需要更换dxvk（或是wined3d）版本，假设我使用dxvk-async-1.10.3无法打开游戏A，但是我更换dxvk-dev后就可以打开了
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox22.webp)
+
+
+到这里就配置完成了，快去玩游戏吧😉
