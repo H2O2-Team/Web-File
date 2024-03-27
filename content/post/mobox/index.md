@@ -81,3 +81,10 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 ```
 > 如果输入后“没有反应”请见上方准备的第二条
 
+开始安装前，安装脚本会询问我们是要选择box86+wine还是wow64+wine，强烈建议选择wow64+wine（选项2）
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox4.webp)
+
+耐心等待安装完成，如下图所示
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox5.webp)
