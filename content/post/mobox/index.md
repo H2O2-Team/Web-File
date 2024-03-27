@@ -209,4 +209,31 @@ dxvk菜单翻译：
 # 启动
 到此处，我们就可以开始设置termux-x11并启动wine了
 
-首先下载mobox的[wow64版汉化包](https://alist.vofficial233.com/杂物/Box64/mobox wow64汉化包.zip)，将压缩包内的文件夹`z`解压到`/storage/emulated/0/Download/`下，备用
+首先下载mobox的[wow64版汉化包](https://alist.vofficial233.com/杂物/Box64)，将压缩包内的文件夹`z`解压到`/storage/emulated/0/Download/`下，备用
+
+## 配置termux-x11
+
+打开termux-x11 APP，按下图更换显示方式
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox18.webp)
+
+termux-x11的设置翻译如下
+
+- 显示分辨率模式
+- 显示分辨率
+- 拉伸以适应显示屏
+- 键盘打开时重置屏幕
+- PiP 模式
+- 全屏显示
+- 强制横屏
+- 隐藏显示屏缺口（如果有）
+- 保持屏幕开启
+
+请关闭如下图所示的此选项
+
+> 否则x11下方会出现两排虚拟按键
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox19.webp)
+
+如果要外接鼠标使用，请打开下图所示的选项
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox20.webp)
