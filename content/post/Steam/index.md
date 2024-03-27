@@ -9,7 +9,7 @@ tags:
 - box64
 - Steam
 description: "在mobox或是别的容器中运行Steam" #描述
-weight: 1 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+weight: 3 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: "run-steam"
 draft: false # 是否为草稿
 comments: true #是否展示评论
