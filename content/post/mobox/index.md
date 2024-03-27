@@ -141,3 +141,31 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 这可以让wine运行的更快，反之，没有root请选择`Enable esync without root (fast)`
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox9.webp)
+
+## dxvk设置
+
+dxvk菜单翻译：
+
+1. 更改DX版本
+2. 最大帧率
+3. 垂直同步
+4. 编辑配置文件
+5. 重置设置
+
+建议关闭垂直同步
+> 选择3进入修改垂直同步的菜单后，选择`2 dxgi.syncInterval = 0 (no vsync)`即可关闭垂直同步
+> ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox11.webp)
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox10.webp)
+
+## 系统设置
+
+系统设置菜单翻译：
+
+1. 输出分辨率设置
+2. 调用核心数设置
+3. 更改语言
+4. 更改性能监视器
+5. TU_DEBUG设置
+6. 恢复默认设置
+
