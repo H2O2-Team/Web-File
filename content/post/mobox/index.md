@@ -25,18 +25,20 @@ cover:
     relative: false
 --- 
 
-最近termux-box的作者发布了似乎是作为代替termux-box的新玩具mobox，听说表现效果要比termux-box还好一些，那么我们装一个试试吧
+mobox是与termux-box同一个作者开发集成了box64/wine/wow64/Turnip zink/dxvk/VirGL的新项目，但与termux-box不同的是，mobox使用glibc来运行wine，不再依赖proot/chroot Linux
 <!--more-->
 [项目地址](https://github.com/olegos2/mobox)
 
 [视频版教程](https://www.bilibili.com/video/BV1g94y1P7SG)
 
 # 准备
--  安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://jsproxy.vofficial.cc/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://alist.vofficial233.com/%E6%9D%82%E7%89%A9/Box64/IB%E9%94%AE%E7%9B%98/InputBridge_v0.1.9.9.apk)
+-  首先请在手机上安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://jsproxy.vofficial.cc/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://alist.vofficial233.com/%E6%9D%82%E7%89%A9/Box64/IB%E9%94%AE%E7%9B%98/InputBridge_v0.1.9.9.apk)
 - 确保你当前可以顺畅连接到Github
 > **因为教程中使用的链接被GFW阻断，中国大陆地区（不含中国香港、中国澳门、中国台湾）请使用VPN或其他绕过GFW封锁**
 
 # 安装
+
+## 授予Termux储存权限
 
 首先打开Termux来申请储存权限，输入：
 
@@ -44,97 +46,38 @@ cover:
 termux-setup-storage
 ```
 
-授予Termux储存权限
-
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/termux-box-1.webp)
 
+授予Termux储存权限
 
-> 有所谓的“报错”是正常滴，不用管
+如果没有弹出授予权限的弹窗，请按照下图（以HyperOS）为例手动授予Termux储存权限
 
-然后更新一下Termux的包
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-1.webp)
+
+## 换源并更新包
+然后为Termux换源，在Termux中输入
+```auto
+termux-change-repo
+```
+按照下图示例更换为国内源
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
+
+更换后更新一下Termux的包，输入
 
 ```auto
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade
 ```
+> 一路输入y即可
+
+如果出现像下图的“卡住”，输入y并回车
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-3.webp)
 
 更新后，输入官方的安装命令安装
 
 ```auto
 curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
 ```
-> 前提是你能正常访问Github
-
-如果访问Github有困难，请使用下面这段命令
-
-```
-curl -s -o ~/x https://mirror.h2o-2.org/https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
-```
-
-> 8Gen3在安装时请选择wow64（选择2）
-
-当看到`To start - type "mobox"`时即安装成功
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-1.webp)
-# 开始使用
-输入
-```
-mobox
-```
-来启动mobox
-
-mobox启动界面的翻译如下图
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
-
-mobox设置界面的翻译如下图
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-3.webp)
-
-下面我们开始设置，如果手机有Root，先进入设置选择6的Root设置，选择2
-
-`oom Adjuster (PREVENT TERMUX KILL)`防止termux被杀死
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-4.webp)
-
-
-然后退出，选择4（系统设置）
-翻译如下
-
-1.更改分辨率
-
-2.更改处理器核心
-
-3.更改语言
-
-4.更改HUD显示
-
-5.a7xx闪烁修复（8gen1及以上选择）
-
-6.更改 WSI_PRESENT_MOOE
-
-
-
-## 更改中文
-下载[中文汉化包](https://alist.vofficial233.com/%E6%9D%82%E7%89%A9/Box64/mobox%20wow64%E6%B1%89%E5%8C%96%E5%8C%85.zip)并解压到`/storage/emulatede/0/Download`的一个不含中文字符的文件夹中
-
-> 目前只提供wow64版的汉化包
-
-然后再到mobox的设置中更改语言，输入
-```
-zh_CN
-```
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-5.webp)
-
-## 安装驱动
-打开左下角的**起点**，打开`Install`，安装`dxvk`和`turnip zink`
-
-> 目前还没有测试过VirGL（因为手里都是骁龙懒得测了 :p）
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-6.webp)
-
-## 解决启动黑屏
-在主菜单依次选择3 1修复wine
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
-
-
+> 如果输入后“没有反应”请见上方准备的第二条
 
