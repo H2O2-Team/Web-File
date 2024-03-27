@@ -132,3 +132,12 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox8.webp)
 
+
+## esync设置
+进入esync的菜单后，首先选择`2.Change wine esync mode`
+
+进入菜单后，如果有你的手机已经获取了Root权限，
+建议选择`Enable esync with root (may be faster)`
+这可以让wine运行的更快，反之，没有root请选择`Enable esync without root (fast)`
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox9.webp)
