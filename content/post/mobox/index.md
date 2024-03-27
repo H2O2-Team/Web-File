@@ -179,3 +179,9 @@ dxvk菜单翻译：
 - 20:9 1600x720
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox13.webp)
+
+### 修改调用核心数
+选择你想让mobox调用的核心数量即可
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox14.webp)
+
