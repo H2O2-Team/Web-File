@@ -152,11 +152,11 @@ dxvk菜单翻译：
 4. 编辑配置文件
 5. 重置设置
 
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox10.webp)
+
 建议关闭垂直同步
 > 选择3进入修改垂直同步的菜单后，选择`2 dxgi.syncInterval = 0 (no vsync)`即可关闭垂直同步
 > ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox11.webp)
-
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox10.webp)
 
 ## 系统设置
 
