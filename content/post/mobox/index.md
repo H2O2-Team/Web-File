@@ -107,7 +107,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 首先我们需要在启动前进行一些设置
 
 # 设置
-首先选择2进入设置
+首先在主菜单选择2进入设置
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox7.webp)
 
