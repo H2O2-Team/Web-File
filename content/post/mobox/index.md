@@ -185,3 +185,12 @@ dxvk菜单翻译：
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox14.webp)
 
+### 修改语言
+如需改为中文，输入`zh_CN`，如果修改后想恢复为默认的英文，输入`en_US`
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox15.webp)
+
+> 除了在此处修改，还需要下载汉化包覆盖
+
+
+
