@@ -88,3 +88,5 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 耐心等待安装完成，如下图所示
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox5.webp)
+
+然后输入`mobox`即可启动mobox
