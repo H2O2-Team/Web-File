@@ -206,3 +206,7 @@ dxvk菜单翻译：
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox17.webp)
 
+# 启动
+到此处，我们就可以开始设置termux-x11并启动wine了
+
+首先下载mobox的[wow64版汉化包](https://alist.vofficial233.com/杂物/Box64/mobox wow64汉化包.zip)，将压缩包内的文件夹`z`解压到`/storage/emulated/0/Download/`下，备用
