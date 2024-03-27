@@ -68,6 +68,10 @@ PC Games的游戏分区内，子文件夹专为Box64优化塞了一些Hugo他们
 
 # 如何正确提问
 
+- 处理器：（骁龙/天玑/麒麟）
+- 手机系统版本：（例 HyperOS1.0.24.2.26.DEV）
+- Android版本 （例 Android14）
+- Termux版本
 - 使用的模拟器版本：（mobox官方最新版/国内魔改版）
 - wine版本：（例 wine-9.3-vanilla-wow64）
 - 图像驱动版本：（例Turnip-v6/VirGL）
