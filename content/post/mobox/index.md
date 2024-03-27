@@ -261,4 +261,5 @@ termux-x11配置完成后，回到Termux，选择1启动wine
 
 启动后，打开D盘，打开刚刚解压的文件夹`z`，复制里面的文件夹`usr`，将其粘贴到z盘
 > 如下图所示
+
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox21.webp)
