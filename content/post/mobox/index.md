@@ -52,7 +52,7 @@ termux-setup-storage
 
 如果没有弹出授予权限的弹窗，请按照下图（以HyperOS）为例手动授予Termux储存权限
 
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-1.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox1.webp)
 
 ## 换源并更新包
 然后为Termux换源，在Termux中输入
@@ -61,7 +61,7 @@ termux-change-repo
 ```
 按照下图示例更换为国内源
 
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-2.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox2.webp)
 
 更换后更新一下Termux的包，输入
 
@@ -72,7 +72,7 @@ pkg update && pkg upgrade
 
 如果出现像下图的“卡住”，输入y并回车
 
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox-3.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox3.webp)
 
 更新后，输入官方的安装命令安装
 
