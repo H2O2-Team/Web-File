@@ -25,3 +25,8 @@ cover:
     relative: false
 ---
 
+首先从Steam官网下载并安装Steam
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/run-steam-1.webp)
+
+下载完成后不要启动，从下载站下载[启动脚本](https://alist.vofficial233.com/杂物/Box64/Steam/start-new-steam.bat)并复制到Steam根目录（C:\Program Files (x86)\Steam）内，然后使用此脚本启动即可
