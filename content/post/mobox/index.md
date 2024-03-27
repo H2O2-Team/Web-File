@@ -123,3 +123,12 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 8. 备份和恢复
 9. 设备兼容性设置
 
+## Dynarec设置
+输入数字并回车来修改，修改完成后再次回车即可退出
+
+除部分特殊游戏外，大部分游戏直接使用45就可以直接进入
+
+> 并且Dynarec45帧数最高
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox8.webp)
+
