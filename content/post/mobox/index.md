@@ -79,7 +79,7 @@ pkg update && pkg upgrade
 ```auto
 curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
 ```
-> 如果输入后“没有反应”请见上方准备的第二条
+> 如果输入后“没有反应”请见上方[准备](https://h2o-2.org/p/mobox/#准备)的第二条
 
 开始安装前，安装脚本会询问我们是要选择box86+wine还是wow64+wine，强烈建议选择wow64+wine（选项2）
 
