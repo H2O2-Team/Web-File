@@ -192,5 +192,17 @@ dxvk菜单翻译：
 
 > 除了在此处修改，还需要下载汉化包覆盖
 
+### 关闭services.exe
 
+关闭services.exe可以减少一些内存占用
+
+进入上文中提到的设备兼容性设置，选择`Switch services.exe startup`，屏幕闪烁一下代表操作已完成
+
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox16.webp)
+
+### Root选项
+手机如果获得了Root权限可以开启`2 00M Adjuster (Prevent termux kill)`与`Disable phantom process killer`
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox17.webp)
 
