@@ -105,3 +105,21 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 6. 更新日志
 
 首先我们需要在启动前进行一些设置
+
+# 设置
+首先选择2进入设置
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox7.webp)
+
+设置主菜单翻译：
+
+1. Dynarec设置
+2. esync设置
+3. dxvk设置
+4. 系统设置
+5. Debug设置
+6. Root设置
+7. VirGL设置
+8. 备份和恢复
+9. 设备兼容性设置
+
