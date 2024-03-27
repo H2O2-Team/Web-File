@@ -97,11 +97,11 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 
 主菜单翻译：
 
-1.启动wine
-2.设置
-3.包管理
-4.选择wine版本
-5.更改构建的box64
-6.更新日志
+1. 启动wine
+2. 设置
+3. 包管理
+4. 选择wine版本
+5. 更改构建的box64
+6. 更新日志
 
 首先我们需要在启动前进行一些设置
