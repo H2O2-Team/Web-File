@@ -263,3 +263,11 @@ termux-x11配置完成后，回到Termux，选择1启动wine
 > 如下图所示
 
 ![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox21.webp)
+
+覆盖完成后，回到Termux，停止wine，然后再运行就可以看到中文啦
+
+## 安装Turnip zink与dxvk
+在左下角的起点找到Install，安装Turnip zink与dxvk（天玑/麒麟请安装VirGL与wined3d）
+> 要注意，如果有些游戏需要更换dxvk（或是wined3d）版本，假设我使用dxvk-async-1.10.3无法打开游戏A，但是我更换dxvk-dev后就可以打开了
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox22.webp)
