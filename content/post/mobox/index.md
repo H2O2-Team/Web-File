@@ -1,14 +1,14 @@
 ---
 title: "mobox的安装和使用" #标题
 date: 2023-12-14 #创建时间
-lastmod: 2024-02-01  #更新时间
+lastmod: 2024-03-27  #更新时间
 author: ["H2O2 Team"] #作者
 categories: 
 - box64
 tags: 
 - box64
 - mobox
-description: "mobox的简短教程" #描述
+description: "mobox的安装与配置" #描述
 weight:  # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: "mobox"
 draft: false # 是否为草稿
