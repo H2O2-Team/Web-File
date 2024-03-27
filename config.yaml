@@ -189,15 +189,6 @@ menu:
           newTab: false
           icon: link
 
-    - identifier: about
-      name: 关于
-      url: /about/
-      weight: -20
-      params:
-          newTab: false
-          icon: user
-
-
     - identifier: github-proxy
       name: Github Proxy
       url: https://mirror.h2o-2.org/ 
@@ -214,6 +205,13 @@ menu:
           newTab: false
           icon: proxy       
 
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: -20
+      params:
+          newTab: false
+          icon: user
 
         
 
