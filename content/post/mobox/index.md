@@ -169,3 +169,13 @@ dxvk菜单翻译：
 5. TU_DEBUG设置
 6. 恢复默认设置
 
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox12.webp)
+
+### 修改分辨率
+输入要修改的分辨率即可，这里提供一些分辨率
+
+- 16:9 960x540 1066x600 1280x720
+- 21:9 1200x540 1600x720
+- 20:9 1600x720
+
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox12.webp)
