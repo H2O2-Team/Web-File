@@ -178,4 +178,4 @@ dxvk菜单翻译：
 - 21:9 1200x540 1600x720
 - 20:9 1600x720
 
-![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox12.webp)
+![](https://jsproxy.vofficial.cc/gh/H2O2-Team/imgs/mobox13.webp)
