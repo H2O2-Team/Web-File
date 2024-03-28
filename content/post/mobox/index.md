@@ -29,7 +29,7 @@ mobox是与termux-box同一个作者开发集成了box64/wine/wow64/Turnip zink/
 <!--more-->
 [项目地址](https://github.com/olegos2/mobox)
 
-[视频版教程](https://www.bilibili.com/video/BV1g94y1P7SG)
+[视频版教程](https://www.bilibili.com/video/BV1ax421Q7Sb)
 
 # 准备
 -  首先请在手机上安装[Termux](https://mirror.ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Ftermux%2Ftermux-app%2Freleases%2Fdownload%2Fv0.118.0%2Ftermux-app_v0.118.0%2Bgithub-debug_arm64-v8a.apk)、[Termux-x11](https://jsproxy.vofficial.cc/gh/olegos2/mobox/components/termux-x11.apk)、[Input Bridge](https://alist.vofficial233.com/%E6%9D%82%E7%89%A9/Box64/IB%E9%94%AE%E7%9B%98/InputBridge_v0.1.9.9.apk)
